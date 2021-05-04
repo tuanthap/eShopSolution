@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>7ef4c7e5-3099-4a17-9c0f-bf59eb692a21</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.0" />
+  </ItemGroup>
+
+</Project>
